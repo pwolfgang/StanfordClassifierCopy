@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.stanford.nlp</groupId>
+  <artifactId>StanfordClassifier</artifactId>
+  <versioning>
+    <release>3.9.1-COPY</release>
+    <versions>
+      <version>3.9.1-COPY</version>
+    </versions>
+    <lastUpdated>20190116185935</lastUpdated>
+  </versioning>
+</metadata>
